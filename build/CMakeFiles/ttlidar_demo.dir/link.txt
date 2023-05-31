@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g2 -ggdb   CMakeFiles/ttlidar_demo.dir/app/demo_main.cpp.o CMakeFiles/ttlidar_demo.dir/sdk/src/ttlidar_driver.cpp.o CMakeFiles/ttlidar_demo.dir/sdk/src/arch/thread.cpp.o CMakeFiles/ttlidar_demo.dir/sdk/src/arch/linux/linux_serial.cpp.o CMakeFiles/ttlidar_demo.dir/sdk/src/arch/linux/timer.cpp.o  -o ttlidar_demo -rdynamic -lrt -lpthread 

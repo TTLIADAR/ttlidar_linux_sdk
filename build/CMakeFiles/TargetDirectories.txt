@@ -1,0 +1,3 @@
+/home/chenyf/sdk/ttlidar_linux/build/CMakeFiles/edit_cache.dir
+/home/chenyf/sdk/ttlidar_linux/build/CMakeFiles/rebuild_cache.dir
+/home/chenyf/sdk/ttlidar_linux/build/CMakeFiles/ttlidar_demo.dir
